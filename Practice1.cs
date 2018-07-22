@@ -5,7 +5,7 @@
 //for each variable DECLARATION,
 // determine the type and name of each variable.  (HINT: some declarations may NOT be valid!)
                               //TYPE   |   //NAME
-char x = ' ';       
+char x = ' ';           // char     // x 
 var silly = 's';
 var char = "s";
 double penny = 10.22D;
@@ -13,7 +13,7 @@ People people = p;
 var string = new Person();
 x = "hello";
 new Pizza();
-var y = 40.00M;
+var y = 40.00M; 
 var string = 's';
 float decimal = 32.00F;
 decimal float = 32.00M;
