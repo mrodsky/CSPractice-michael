@@ -1,3 +1,7 @@
+//CREATE A NEW REPOSITORY NAMED CSPractice on your own github account. 
+//(using command line can copy paste) write the questions and answers 
+// in a new file and push when done. 
+
 //for each variable DECLARATION,
 // write the type and name of each variable.  (HINT: some declarations may NOT be valid!)
                               //TYPE   |   //NAME
@@ -65,26 +69,26 @@ List<string> classnames = new List<string>
 {
   "michael", "javier", "cady", "curtis", "raul", "fred", "todd"
 };
-foreach (string item in classnames)
-{
-  if(classnames.item(x => x.Contains("cady"))
-   return item;
-}
-classnames.Where(x => x.Contains("cady").First();
+
+
+//****************using command line: add, commit and push your code to the repo************* */
 
 
 /*********************************PROGRAMMING*********************************************** */
-
+ NUMBER 1;
 // should input a string in a console
 // Write a program that will count the number of spaces in a string;
 
 //*********************************************************************************************
- 
+ NUMBER 2;
  // program should input 2 numbers in the console. write a program that will raise number 1 
  // to the power of number2;
 
  //************************************************************************************** */
-
+ NUMBER 3;
  // Write a program that will determine if a number is prime or not 
  // HINT: a number is prime if it is not divisible by any number except 1 and itself
  // Write most of your program in a CLASS LIBRARY project. 
+//*************************************************************************************** */
+
+//**************using command line: add commit and push your code ;) ******************* */
