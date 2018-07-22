@@ -3,7 +3,7 @@
 // in a new file and push when done. 
 
 //for each variable DECLARATION,
-// write the type and name of each variable.  (HINT: some declarations may NOT be valid!)
+// determine the type and name of each variable.  (HINT: some declarations may NOT be valid!)
                               //TYPE   |   //NAME
 char x = ' ';       
 var silly = 's';
@@ -20,6 +20,8 @@ decimal float = 32.00M;
 ulong number = -12;
 Pizza pizza = new Pizza();
 Radio string = new Radio();
+Pizza pizza = new Radio();
+int list = new list<decimal>();
 Cheese c; 
 List<cheese> Cheeses; 
 Dictonary<Topping> _T;
